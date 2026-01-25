@@ -12,24 +12,27 @@ This is our introduction to the first report of our COE411 lab. We should probab
 ## Description
 Tell me what system(s) did you build and how they work
 
-##Circuit Diagram
-![CirkitDesigner diagram.](/images/base-octocat.svg)
+## Circuit Diagram
+Show your CrikitDesigner diagram
+
+![CirkitDesigner diagram.](/images/circuit_image_github.png)
 
 ## Key Code Segments
 This is where you describe the code you added and briefly explain what it does
 
+## System Photo
+If applicable
+
+## Screenshots
+If applicable
+
+## Some extra helpers
+### This is a third level header
+### Below is a list
+- Item 1
+- Item 2
+- Item 3
 
 
-
-
-## Guidelines
-
-### Content and Structure
-
-- Focus only on information necessary for developers to get started using and contributing to the project
-- Use clear, concise language and keep it scannable with good headings
-- Include relevant code examples and usage snippets
-- Add badges for build status, version, license if appropriate
-- Keep content under 500 KiB (GitHub truncates beyond this)
-
-Analyze the project structure, dependencies, and code to make the README accurate, helpful, and focused on getting users productive quickly.
+The Read-Me should include all information you'd typically include in a technical report. Anyone going through the repo should understand everything that happened without ever looking at the handout.
+Refer to the [GitHub docs] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for more help.
