@@ -18,7 +18,11 @@ Show your CrikitDesigner diagram
 ![CirkitDesigner diagram.](/images/circuit_image_github.png)
 
 ## Key Code Segments
-This is where you describe the code you added and briefly explain what it does
+This is where you describe the code you added and briefly explain what it does. For example, the code below makes the LED blink with a delay of 1 second:
+```
+	  HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_5);
+	  HAL_Delay(1000);
+```
 
 ## System Photo
 If applicable
