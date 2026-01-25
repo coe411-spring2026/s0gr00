@@ -9,15 +9,18 @@ Jojo: b00000003
 
 This is our introduction to the first report of our COE411 lab. We should probably write a lot of information that demonstrates our understanding of the material.
 
-## Topics
+## Description
+Tell me what system(s) did you build and how they work
 
-1. Review the entire project workspace and codebase
-2. Create a comprehensive README.md file with these essential sections:
-   - **What the project does**: Clear project title and description
-   - **Why the project is useful**: Key features and benefits
-   - **How users can get started**: Installation/setup instructions with usage examples
-   - **Where users can get help**: Support resources and documentation links
-   - **Who maintains and contributes**: Maintainer information and contribution guidelines
+##Circuit Diagram
+![CirkitDesigner diagram.](/images/base-octocat.svg)
+
+## Key Code Segments
+This is where you describe the code you added and briefly explain what it does
+
+
+
+
 
 ## Guidelines
 
